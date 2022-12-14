@@ -6,6 +6,7 @@ let atletas = [
     {
       nome: "Fernando Puntel",
       notas:  [8, 10, 10, 7, 9.33]
+    },
     {
       nome: "Daiane Jelinsky",
       notas: [7, 10, 9.5, 9.5, 8]
